@@ -67,4 +67,5 @@ this expects a parameter named `bike` which is a json of the following format:
 ```
 **please note that out of the above parameters id and atleast one out of  the rest is compulsory**, essentially an id and all the params which need to be updated
 
+if using postman for testing use x-www-form-urlencoded to pass params
 ---
